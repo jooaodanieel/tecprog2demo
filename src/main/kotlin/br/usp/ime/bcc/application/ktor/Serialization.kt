@@ -1,4 +1,4 @@
-package br.usp.ime.bcc.application.ktor_plugins
+package br.usp.ime.bcc.application.ktor
 
 import io.ktor.serialization.kotlinx.json.json
 import io.ktor.server.application.Application

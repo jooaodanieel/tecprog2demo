@@ -1,4 +1,4 @@
-package br.usp.ime.bcc.application.ktor_plugins
+package br.usp.ime.bcc.application.ktor
 
 import io.ktor.http.HttpHeaders
 import io.ktor.http.HttpMethod
