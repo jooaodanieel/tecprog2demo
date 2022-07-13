@@ -1,0 +1,1 @@
+rootProject.name = "br.usp.ime.bcc.tecprog2demo"
